@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Way Back Home",
+  "base_artist": "SHAUN",
+  "createdAt": "2025-12-23T03:08:57.283521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Way Back Home (Rōnin / Original)",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/01_The_Way_Back_Home_(Rōnin___Original)_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Way Back Home",
+      "artist": "Starsailor",
+      "has_synced": true,
+      "path": "select/02_Way_Back_Home_Starsailor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Way Back Home (Rōnin \u0000 Original)",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/03_The_Way_Back_Home_(Rōnin_\u0000_Original)_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On My Way Back Home",
+      "artist": "Band of Horses",
+      "has_synced": true,
+      "path": "select/04_On_My_Way_Back_Home_Band_of_Horses.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Way Back Home",
+      "artist": "Bag Raiders",
+      "has_synced": true,
+      "path": "select/05_Way_Back_Home_Bag_Raiders.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Way Back Home",
+      "artist": "Level 42",
+      "has_synced": false,
+      "path": "select/06_The_Way_Back_Home_Level_42.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Way Back Home",
+      "artist": "Level 42",
+      "has_synced": false,
+      "path": "select/07_The_Way_Back_Home_Level_42.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Way Back Home",
+      "artist": "Temperance",
+      "has_synced": true,
+      "path": "select/08_Way_Back_Home_Temperance.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "WAY BACK HOME",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/09_WAY_BACK_HOME_Prince.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Call Me On Your Way Back Home",
+      "artist": "Ryan Adams",
+      "has_synced": true,
+      "path": "select/10_Call_Me_On_Your_Way_Back_Home_Ryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Way Back Home",
+      "artist": "The Wreckers",
+      "has_synced": true,
+      "path": "select/11_Way_Back_Home_The_Wreckers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Boogie My Way Back Home",
+      "artist": "The Gary Moore Band",
+      "has_synced": false,
+      "path": "select/12_Boogie_My_Way_Back_Home_The_Gary_Moore_Band.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Way Back Home",
+      "artist": "Bob Crosby",
+      "has_synced": true,
+      "path": "select/13_Way_Back_Home_Bob_Crosby.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Long Way Back Home",
+      "artist": "Barenaked Ladies",
+      "has_synced": false,
+      "path": "select/14_Long_Way_Back_Home_Barenaked_Ladies.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Way Back Home",
+      "artist": "Vince Gill",
+      "has_synced": false,
+      "path": "select/15_The_Way_Back_Home_Vince_Gill.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Way Back Home",
+      "artist": "Shaggy",
+      "has_synced": true,
+      "path": "select/16_Way_Back_Home_Shaggy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Show Me The Way Back Home",
+      "artist": "Kenny Wayne Shepherd",
+      "has_synced": true,
+      "path": "select/17_Show_Me_The_Way_Back_Home_Kenny_Wayne_Shepherd.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Show Me The Way Back Home",
+      "artist": "The Kenny Wayne Shepherd Band",
+      "has_synced": true,
+      "path": "select/18_Show_Me_The_Way_Back_Home_The_Kenny_Wayne_Shepherd_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Way Back Home",
+      "artist": "SHAUN",
+      "has_synced": false,
+      "path": "select/pl_01_Way_Back_Home_SHAUN.txt"
+    }
+  ]
+}
